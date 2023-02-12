@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1>
+            Cristiano Ronaldo
+        </h1>
+    </head>
+    <body>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" alt="CR7" width="300" length="200">
+        <p><strong>Cristiano Ronaldo,</strong>(born Feb. 5, 1985, Funchal, Madeira, Port.), Portuguese football (soccer) player.
+            While playing with Manchester United (2003–09), he developed into one of the game’s best forwards,
+             noted for his free-reined attacking style.<a href="https://www.britannica.com/place/Europe">Europe</a> leading scorer,
+              with 31 League goals. He is the all-time leading scorer for <a href="https://www.britannica.com/place/Spain">Spain</a> 
+              <a href="https://www.britannica.com/topic/Real-Madrid">Real Madrid</a>.
+
+              Cristiano Ronaldo’s teams
+              <ol>
+                <li>Sporting CP</li>
+                <li>Manchester United</li>
+                <li>Real Madrid</li>
+                <li>Juventus</li>
+                <li>Manchester United</li>
+              </ol>
+        </p>
+    </body>
+</html>
